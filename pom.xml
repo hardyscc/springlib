@@ -11,7 +11,7 @@
     </parent>
     <groupId>com.sysforce.oss</groupId>
     <artifactId>springlib</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <scm>
         <connection>scm:git:https://github.com/hardyscc/springlib.git</connection>
     </scm>
