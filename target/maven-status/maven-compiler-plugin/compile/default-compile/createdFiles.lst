@@ -1,0 +1,9 @@
+com/sysforce/springlib/util/StringValuedEnumReflect.class
+com/sysforce/springlib/exception/WebExceptionAdvice.class
+com/sysforce/springlib/util/StringValuedEnum.class
+com/sysforce/springlib/exception/impl/BadRequestException.class
+com/sysforce/springlib/exception/ErrorMessage.class
+com/sysforce/springlib/util/StringValuedEnumConverter.class
+com/sysforce/springlib/util/StringArrayConverter.class
+com/sysforce/springlib/exception/impl/ConflictException.class
+com/sysforce/springlib/exception/impl/NotFoundException.class
