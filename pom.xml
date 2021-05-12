@@ -9,10 +9,10 @@
     </parent>
     <groupId>com.sysforce.oss</groupId>
     <artifactId>springlib</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.1.0</version>
     <scm>
         <connection>scm:git:https://github.com/hardyscc/springlib.git</connection>
-        <tag>HEAD</tag>
+        <tag>springlib-0.1.0</tag>
     </scm>
 
     <properties>
